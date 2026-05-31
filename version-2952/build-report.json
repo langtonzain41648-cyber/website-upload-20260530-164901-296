@@ -1,0 +1,18 @@
+{
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_pages": 2000,
+  "video_sources_detected": 20,
+  "category_distribution": {
+    "asia-select": 145,
+    "suspense-thriller": 240,
+    "action-crime": 240,
+    "sci-fi-fantasy": 240,
+    "drama-biography": 240,
+    "comedy-family": 240,
+    "romance-youth": 220,
+    "history-war": 145,
+    "anime-variety": 145,
+    "classic-library": 145
+  }
+}
